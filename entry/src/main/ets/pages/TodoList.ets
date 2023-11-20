@@ -13,6 +13,10 @@ struct TodoList {
         todoItem({content:'抽烟'})
         todoItem({content:'喝酒'})
         todoItem({content:'烫头'})
+        todoItem({content:'爽歪歪'})
+        todoItem({content:'可口可乐'})
+        todoItem({content:'脉动'})
+        todoItem({content:'和奇正'})
       }
       .width('100%')
     }
