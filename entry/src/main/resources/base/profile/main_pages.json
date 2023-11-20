@@ -5,6 +5,7 @@
     "pages/TodoList",
     "pages/StateStyle",
     "pages/Provide_Cosume",
-    "pages/Watch_state"
+    "pages/Watch_state",
+    "pages/If_module"
   ]
 }
