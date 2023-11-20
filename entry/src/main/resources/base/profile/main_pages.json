@@ -3,6 +3,7 @@
     "pages/Index",
     "pages/StateManger",
     "pages/TodoList",
-    "pages/StateStyle"
+    "pages/StateStyle",
+    "pages/Provide_Cosume"
   ]
 }
