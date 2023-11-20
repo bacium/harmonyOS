@@ -4,6 +4,7 @@
     "pages/StateManger",
     "pages/TodoList",
     "pages/StateStyle",
-    "pages/Provide_Cosume"
+    "pages/Provide_Cosume",
+    "pages/Watch_state"
   ]
 }
