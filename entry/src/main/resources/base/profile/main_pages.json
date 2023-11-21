@@ -6,6 +6,8 @@
     "pages/StateStyle",
     "pages/Provide_Cosume",
     "pages/Watch_state",
-    "pages/If_module"
+    "pages/If_module",
+    "pages/ForEach_case",
+    "pages/LifeCycle_case"
   ]
 }
