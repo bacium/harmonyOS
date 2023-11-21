@@ -8,6 +8,8 @@
     "pages/Watch_state",
     "pages/If_module",
     "pages/ForEach_case",
-    "pages/LifeCycle_case"
+    "pages/LifeCycle_case",
+    "pages/Params_payload",
+    "pages/Params_payload2"
   ]
 }
