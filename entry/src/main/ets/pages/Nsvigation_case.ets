@@ -29,7 +29,9 @@ struct Nsvigation_case {
   build() {
     Row() {
       Column() {
-        Navigation()
+        Navigation(){
+          Image(this.bars[this.activeIndex].content).width('90%').height(400)
+        }
           .title(this.NavigatorTitle())
           .toolBar(this.NavigatorToolbar())
 
@@ -38,6 +40,7 @@ struct Nsvigation_case {
       .height('100%')
       .backgroundColor(0xcccccc)
       .padding(20)
+
     }
     .height('100%')
   }
@@ -47,7 +50,10 @@ struct Nsvigation_case {
     Column(){
       Text(this.bars[this.activeIndex].text).fontSize(30)
       Text(this.bars[this.activeIndex].subtitle).fontSize(15)
+
     }
+    .height('100%')
+    .width('100%')
   }
 
   @Builder NavigatorToolbar() {
